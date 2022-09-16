@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mobileproject/colortheme.dart';
 
+//กำหนด style textfield
 class SignUpList extends StatelessWidget {
   final TextEditingController controller;
   final String hintText;

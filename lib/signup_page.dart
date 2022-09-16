@@ -5,6 +5,7 @@ import 'logotext.dart';
 import 'agree.dart';
 import 'signup_button.dart';
 
+//หน้า register
 class Register extends StatefulWidget {
   const Register({
     Key? key,

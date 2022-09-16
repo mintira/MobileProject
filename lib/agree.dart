@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'textstyle.dart';
 
+//agree part
 class AgreeTerms extends StatelessWidget {
   const AgreeTerms({
     Key? key,

@@ -3,6 +3,7 @@ import '../textstyle.dart';
 import '../colortheme.dart';
 import 'signuplist.dart';
 
+//รวม textfield และ label ของหน้า sign up
 class SignUpForm extends StatefulWidget {
   const SignUpForm({
     Key? key,
